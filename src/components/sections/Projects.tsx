@@ -110,58 +110,6 @@ const projects: Project[] = [
       ]
     }
   },
-  {
-    title: "Agente de Marketing",
-    description: "Especialista em estratégias e execução de campanhas de marketing",
-    image: "/Agente de_Marketing _.png",
-    details: {
-      overview: "Um agente especializado em marketing que automatiza e otimiza suas campanhas para máximo impacto.",
-      features: [
-        "Criação automática de conteúdo",
-        "Segmentação inteligente",
-        "A/B testing automático",
-        "Análise de performance"
-      ],
-      benefits: [
-        "Aumento de 200% no engajamento",
-        "Redução de 60% no tempo de execução",
-        "Maior consistência nas campanhas",
-        "Otimização contínua"
-      ],
-      integrations: [
-        "Redes Sociais",
-        "Plataformas de Email Marketing",
-        "CMS",
-        "Analytics"
-      ]
-    }
-  },
-  {
-    title: "Agente de Ligação com IA",
-    description: "Automação inteligente de chamadas e follow-ups comerciais",
-    image: "/Agente de Ligacao com IA_.png",
-    details: {
-      overview: "Um agente especializado em comunicação que automatiza e humaniza o processo de ligações e follow-ups.",
-      features: [
-        "Reconhecimento de voz natural",
-        "Personalização dinâmica do discurso",
-        "Gestão inteligente de objeções",
-        "Agendamento automático"
-      ],
-      benefits: [
-        "Aumento de 150% na taxa de contato",
-        "Redução de 80% no tempo de follow-up",
-        "Maior satisfação do cliente",
-        "Escalabilidade imediata"
-      ],
-      integrations: [
-        "Sistema de Telefonia",
-        "CRM",
-        "Calendários",
-        "Ferramentas de Vendas"
-      ]
-    }
-  }
 ];
 
 const Projects: React.FC = () => {
